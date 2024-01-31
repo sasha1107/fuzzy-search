@@ -1,0 +1,32 @@
+{
+  "name": "fuzzy-search",
+  "version": "1.0.0",
+  "description": "fuzzy search for korean",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasha1107/fuzzy-search.git"
+  },
+  "keywords": [
+    "fuzzy-search"
+  ],
+  "author": "sasha1107",
+  "bugs": {
+    "url": "https://github.com/sasha1107/fuzzy-search/issues"
+  },
+  "homepage": "https://github.com/sasha1107/fuzzy-search#readme",
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "@babel/preset-typescript": "^7.23.3",
+    "@jest/globals": "^29.7.0",
+    "@types/jest": "^29.5.11",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.3.3"
+  }
+}
