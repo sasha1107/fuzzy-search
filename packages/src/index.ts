@@ -1,3 +1,4 @@
 import seperate from './seperate';
+import extractFirstConsonant from './extractFirstConsonant';
 
-export { seperate };
+export { seperate, extractFirstConsonant };
